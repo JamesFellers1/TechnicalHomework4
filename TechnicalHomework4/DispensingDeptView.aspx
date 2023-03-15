@@ -2,5 +2,10 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-        <div class="jumbotron">Dispensing Department</div>
+        <div class="Content2">Dispensing Department
+            <br />
+            <div>This will be the content area for the Dispenser View.</div>
+
+        </div>
+
 </asp:Content>

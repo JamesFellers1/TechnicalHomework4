@@ -1,4 +1,9 @@
 ﻿body {
     background-size: cover;
     background-image: url(https://images.rawpixel.com/image_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm0zMi1jaGltLTI3LWotd2FsbF8yLmpwZw.jpg)
+
+}
+.Content2{
+    position:absolute;
+    top:100px;
 }

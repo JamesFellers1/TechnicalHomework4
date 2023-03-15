@@ -3,6 +3,10 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-    <div class="jumbotron">Veterinarian</div>
+    <div class="Content2">Veterinarian
+        <br />
+        <div>This will be the content area for the Veterinarian View.</div>
+
+    </div>
 </asp:Content>
 
