@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="DispensingDeptView.aspx" />
     <Content Include="OwnerView.aspx" />
+    <Content Include="StyleSheet1.css" />
     <Content Include="VetView.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
