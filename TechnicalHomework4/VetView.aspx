@@ -3,7 +3,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
 
-    <div class="Content2">Veterinarian
+    <div class="Content2 page-header">Veterinarian
         <br />
         <div>This will be the content area for the Veterinarian View.</div>
 

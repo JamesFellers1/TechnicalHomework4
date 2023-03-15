@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-        <div class="Content2">Pet Owner
+        <div class="Content2 page-header">Pet Owner
             <br />
             <div>This will be the content area for the Pet Owner View.</div>
         </div>
